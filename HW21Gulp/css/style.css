@@ -1,0 +1,67 @@
+body {
+  background-color: #eff;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.input-note {
+  margin-right: 30px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+.add-note {
+  margin-right: 30px;
+}
+
+#show-toggled-button {
+  margin-left: 15px;
+}
+
+.list-item {
+  text-align: center;
+  list-style: none;
+  margin-bottom: 15px;
+}
+
+.value {
+  display: inline-block;
+  width: 300px;
+  text-align: left;
+  margin-right: 15px;
+  border: 1px solid #eee;
+}
+
+.toggle-button {
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+  margin-right: 15px;
+}
+
+.delete-button {
+  display: inline-block;
+  text-align: left;
+  width: 200px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.hide {
+  display: none;
+}
+
+.strike {
+  text-decoration: line-through;
+}
